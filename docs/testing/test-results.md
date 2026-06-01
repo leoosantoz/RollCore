@@ -140,22 +140,3 @@ Tests run: 15, Failures: 0, Errors: 0, Skipped: 0
 Tests run: 9, Failures: 0, Errors: 0, Skipped: 0
 ```
 
----
-
-## Resumo Geral
-
-| Arquivo de Teste | Tipo | Casos | Status |
-|---|---|---|---|
-| `AuthControllerTest` | Sistema (API) | 8 | ✅ |
-| `CharacterControllerTest` | Sistema (API) | 7 | ✅ |
-| `DndEngineTest` | Unitário | 43 | ✅ |
-| `CharacterServiceTest` | Unitário | 21 | ✅ |
-| `DiceServiceTest` | Unitário | 15 | ✅ |
-| `SpellServiceTest` | Unitário | 9 | ✅ |
-| **Total** | | **103** | **✅ BUILD SUCCESS** |
-
-```
-Tests run: 103, Failures: 0, Errors: 0, Skipped: 0
-BUILD SUCCESS — Total time: 14.206s
-Finished at: 2026-04-28T19:08:55-03:00
-```
